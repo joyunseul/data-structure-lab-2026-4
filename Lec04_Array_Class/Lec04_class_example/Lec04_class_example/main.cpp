@@ -1,0 +1,36 @@
+#include "Rectangle.h"
+#include "Pet.h"
+#include "Music.h"
+
+using namespace std;
+int main() {
+	Rectangle rect1(3.4, 2.5);
+	cout << "Rectangle 1:" << endl;
+	cout << "Area:" << rect1.getArea() << endl;
+	cout << "Perimeter:" << rect1.getPerimeter() << endl;
+	cout << "Is Square?:" << boolalpha << rect1.isSpuare() << endl;
+	printf("====================================\n");
+
+	Pet myPet("Kong", 5, "cat");
+	cout << "My pet's name is " << myPet.getName()<< endl;
+
+	Puppy myPuppy("Lucky", 10, "Dog", "Puddle");
+	cout << "My puppy's breed is " << myPuppy.getBreed() << endl;
+
+	MusicStreamingService myService("Spotify");
+	myService.addMusic("SWIM", "BTS", "ARIRANG", 2026);
+	myService.addMusic("JUMP", "blackpink", "JUMP", 2025);
+	myService.addMusic("APT", "rose", "ART", 2024);
+
+	string music_title;
+	cout << "Enter the Music Title: ";
+	cin >> music_title;
+
+	Music* result = myService.searchbyTitle(music_title);
+	if (result != NULL) {
+		cout << "Found: " << result->getTitle() << "by" << result->getArtist() << endl;
+	}
+	else {
+		cout << "Not Found" << endl;
+	}
+};
