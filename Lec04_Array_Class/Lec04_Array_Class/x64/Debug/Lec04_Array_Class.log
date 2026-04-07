@@ -1,4 +1,6 @@
-﻿  lec9.c
-/lec9.c(1,1): error C1083: 소스 파일을 열 수 없습니다. 'lec9.c': No such file or directory
-  (소스 파일 '/lec9.c'을(를) 컴파일하는 중)
+﻿  Lec04_Array_Class.cpp
+C:\Users\USER\Desktop\data-structure-lab-2026-4\Lec04_Array_Class\Lec04_Array_Class\Lec04_Array_Class.cpp(8,7): error C2011: 'Image': 'class' 형식 재정의
+      C:\Users\USER\Desktop\data-structure-lab-2026-4\Lec04_Array_Class\Lec04_Array_Class\Image.h(6,7):
+      'Image' 선언을 참조하십시오.
   
+C:\Users\USER\Desktop\data-structure-lab-2026-4\Lec04_Array_Class\Lec04_Array_Class\Lec04_Array_Class.cpp(50,11): error C2079: 'image'은(는) 정의되지 않은 class 'Image'을(를) 사용합니다.
