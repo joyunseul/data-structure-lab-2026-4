@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ComplexTest.cpp" />
-    <ClCompile Include="lec9.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Complex.h" />
