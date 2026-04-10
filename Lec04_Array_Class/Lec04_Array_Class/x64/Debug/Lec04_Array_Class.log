@@ -1,6 +1,4 @@
-﻿  Lec04_Array_Class.cpp
-C:\Users\USER\Desktop\data-structure-lab-2026-4\Lec04_Array_Class\Lec04_Array_Class\Lec04_Array_Class.cpp(8,7): error C2011: 'Image': 'class' 형식 재정의
-      C:\Users\USER\Desktop\data-structure-lab-2026-4\Lec04_Array_Class\Lec04_Array_Class\Image.h(6,7):
-      'Image' 선언을 참조하십시오.
-  
-C:\Users\USER\Desktop\data-structure-lab-2026-4\Lec04_Array_Class\Lec04_Array_Class\Lec04_Array_Class.cpp(50,11): error C2079: 'image'은(는) 정의되지 않은 class 'Image'을(를) 사용합니다.
+﻿  Image.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+  Lec04_Array_Class.vcxproj -> C:\Users\USER\Desktop\data-structure-lab-2026-4\Lec04_Array_Class\x64\Debug\Lec04_Array_Class.exe
