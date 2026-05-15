@@ -15,12 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ComplexTest.cpp">
+    <ClCompile Include="Image.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+<<<<<<< HEAD
+=======
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+>>>>>>> b27117b53ef324c5d91839025fab441b8aa2bc65
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Complex.h">
+    <ClInclude Include="Image.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
