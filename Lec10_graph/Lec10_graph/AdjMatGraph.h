@@ -1,6 +1,8 @@
 #pragma once
 #include <stdio.h>
 #define MAX_VTXS 20
+#define INF 9999
+#define MAX_ELEMENT 200 // 힙의 최대 크기
 
 class AdjMatGraph {
 protected:
