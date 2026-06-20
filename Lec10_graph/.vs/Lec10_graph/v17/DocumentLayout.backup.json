@@ -1,12 +1,84 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\\uB370\uAD6C\uD504_\uC2E4\uC2B5\\Lec10_Graph\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\Lec10_Graph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4208AE79-5A3E-4D7C-9B96-A83039A4563C}|Lec10_Graph.vcxproj|C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\Lec10_Graph\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4208AE79-5A3E-4D7C-9B96-A83039A4563C}|Lec10_Graph.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4208AE79-5A3E-4D7C-9B96-A83039A4563C}|Lec10_Graph.vcxproj|C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\Lec10_Graph\\WGraphMST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4208AE79-5A3E-4D7C-9B96-A83039A4563C}|Lec10_Graph.vcxproj|solutionrelative:WGraphMST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C44BA7-3ABA-4A10-8D2B-31DDBBFB40FD}|..\\MAZE\\MAZE.vcxproj|C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\MAZE\\Location2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C44BA7-3ABA-4A10-8D2B-31DDBBFB40FD}|..\\MAZE\\MAZE.vcxproj|C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\MAZE\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Location2D.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\MAZE\\Location2D.h",
+              "RelativeDocumentMoniker": "..\\MAZE\\Location2D.h",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\MAZE\\Location2D.h",
+              "RelativeToolTip": "..\\MAZE\\Location2D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-20T08:49:04.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\MAZE\\main.cpp",
+              "RelativeDocumentMoniker": "..\\MAZE\\main.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\MAZE\\main.cpp",
+              "RelativeToolTip": "..\\MAZE\\main.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAUwHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-20T08:45:47.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WGraphMST.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\Lec10_Graph\\WGraphMST.h",
+              "RelativeDocumentMoniker": "WGraphMST.h",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\Lec10_Graph\\WGraphMST.h",
+              "RelativeToolTip": "WGraphMST.h",
+              "ViewState": "AgIAACIBAAAAAAAAAAAAAB0BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-20T08:37:34.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\Lec10_Graph\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\data-structure-lab-2026-4\\Lec10_Graph\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-20T08:36:32.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

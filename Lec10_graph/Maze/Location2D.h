@@ -12,4 +12,3 @@ public:
 		return row == p.row && col == p.col;
 	}
 };
-
